@@ -1,0 +1,33 @@
+I started developing a(an) Utility Program(UP) during the weekend and I was thinking I could get idea on some features people would like to see. Here's the break down:
+Problem
+=======
+A lot of people use Facebook groups, they ask questions, posts comments, help their friends and frenemies out on various programming problems. Unfortunately, Facebook does not (yet) have support for code indentation/formatting; so many of them just write the solution the only way they see fit: directly! A supposed-to-be elegant looking(not all) code become messed up that it is hardly readable.
+Solution
+========
+It would be nice to have a UP that takes a document(in plain text), transforms the text into a short, readable, meaningful and concise text while maintaining the original semantics of the text. Take for example:
+
+"""
+I have the following code but its entering an infinite loop:
+#include <...>
+
+/* other functions */
+int main(int argc, char **argv)
+{
+    struct stack<Type> foo { elements };
+    while ( !foo.empty() ){
+        print(foo.top());
+        /* foo.pop() */ Oops! I forgot to insert this
+    }
+    return EXIT_SUCESS;
+}
+Please help
+"""
+
+BECOMES this
+
+"""
+I have the following code but its entering an infinite loop:
+(http://pastebin.com/duiew7Tu)
+Please help.
+"""
+

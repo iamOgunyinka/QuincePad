@@ -1,0 +1,3 @@
+QuincePad
+=========
+See README.odt

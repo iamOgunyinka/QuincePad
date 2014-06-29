@@ -3,6 +3,7 @@
 
 #include <unordered_map>
 #include <set>
+#include <string>
 
 namespace QuincePad
 {
@@ -66,8 +67,11 @@ namespace QuincePad
         struct KeyWords;
         struct KeyHash;
         struct KeyEqual;
-        static std::map<KeyWords, MetaData, KeyHash, KeyEqual> tokens;
+        Tokens(const KeyWords &tk, MetaData tl);
+        static std::unordered_map<KeyWords, MetaData, KeyHash, KeyEqual> tokens;
         static Language find(const std::string &str);
+        static void INIT_KEYWORDS_TABLE();
+
     };
     static Language getLanguage(const std::string &str)
     {

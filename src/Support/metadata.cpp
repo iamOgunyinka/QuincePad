@@ -26,12 +26,28 @@ struct Tokens
         }
     };
     
-    Tokens(const KeyWords &tk, MetaData tl): kmap { } {
+    Tokens(const KeyWords &tk, MetaData tl) {
         tokens.insert( { tk, tl });
     }
     void insert(const std::initializer_list< std::string > & obj, MetaData tk){
         tokens.insert( { obj, tk });
     }
-    
 };
-Tokens::Language find(const std::string &str)
+
+std::map<Tokens::KeyWords, MetaData, Tokens::KeyHash, Tokens::KeyEqual> Tokens::tokens { };
+
+void Tokens::INIT_KEYWORDS_TABLE()
+{
+    Tokens::tokens.insert( {"cpp", "c++", "1" }, MetaData::CPP );
+    Tokens::tokens.insert( { "pascal", "pas", "2" }, MetaData::PASCAL );
+    Tokens::tokens.insert( { "perl", "3" }, MetaData::PERL );
+}
+
+Tokens::Language Tokens::find(const std::string &str) {
+    for(const auto &i: Tokens::tokens){
+        if(i.first.find(str) != i.first.i_list.end()){
+            return i.second;
+        }
+    }
+    return Language::NONE;
+}

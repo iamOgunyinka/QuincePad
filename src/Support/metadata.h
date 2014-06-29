@@ -1,6 +1,9 @@
 #ifndef METADATA_H
 #define METADATA_H
 
+#include <unordered_map>
+#include <set>
+
 namespace QuincePad
 {
     template<class T, class U>
@@ -58,16 +61,18 @@ namespace QuincePad
         bool run_code;
         code_privacy privacy;
     };
-    /**
+    struct Tokens
+    {
+        struct KeyWords;
+        struct KeyHash;
+        struct KeyEqual;
+        static std::map<KeyWords, MetaData, KeyHash, KeyEqual> tokens;
+        static Language find(const std::string &str);
+    };
     static Language getLanguage(const std::string &str)
     {
-        if( str == "cpp" || str == "c++" || str == "CPP" || str == "1") {
-            return Language::CPP;
-        } else {
-            return Language::NONE;
-        }
+        return Tokens::find(str);
     }
-    **/
 }// namespace QuincePad
 
 #endif

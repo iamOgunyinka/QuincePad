@@ -35,9 +35,12 @@ std::unordered_map<Tokens::KeyWords, Language, Tokens::KeyHash, Tokens::KeyEqual
 
 void Tokens::INIT_KEYWORDS_TABLE()
 {
-    Tokens::tokens.insert( {{ "cpp", "c++", "1" }, Language::CPP });
-    Tokens::tokens.insert( {{ "pascal", "pas", "2" }, Language::PASCAL} );
-    Tokens::tokens.insert( {{ "perl", "3" }, Language::PERL} );
+    Tokens::tokens.insert( {{ "cpp", "c++", "1" }, Language::CPP } );
+    Tokens::tokens.insert( {{ "pascal", "pas", "2" }, Language::PASCAL } );
+    Tokens::tokens.insert( {{ "perl", "3" }, Language::PERL } );
+    Tokens::tokens.insert( {{ "python", "py", "4"}, Language::PYTHON } );
+    Tokens::tokens.insert( {{ "fortran", "fort", "for", "5" }, Language::FORTRAN } );
+    
 }
 
 Language Tokens::find(const std::string &str) {

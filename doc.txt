@@ -1,6 +1,6 @@
 And all you do is [code]insert[/code][code]foobar[/code]
 I am trying to do
-[code]
+[code, lang="php", run=1, input= "12 15"]
 int foo = 10;
 faraday = 100 / 20;
 [/code]

@@ -70,7 +70,7 @@ namespace QuincePad
         Tokens(const KeyWords &key, Language lang);
         void insert(const std::initializer_list< std::string > & obj, Language lang);
         static std::unordered_map<KeyWords, Language, KeyHash, KeyEqual> tokens;
-        static Language find(const std::string &str);
+        static Language getLanguage(const std::string &str);
         static void INIT_KEYWORDS_TABLE();
 
     };

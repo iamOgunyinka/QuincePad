@@ -14,8 +14,11 @@ namespace QuincePad
             Parser(Lexer &m_lexer);
             ~Parser();
             
-            void parseToken(Lexer &m_lexer, std::vector<MetaData> &m_meta);
-            static void getMetaData(const std::string &data, MetaData &metadatas);
+            void parseToken( Lexer &m_lexer, std::vector<MetaData> &m_meta );
+            static void getToken( Lexer &lexer, MetaData &meta );
+            static inline void getMetaData( const std::string &data, MetaData &metadatas );
+            static inline void getCodeTagAttributes( const std::string &text, std::string &data );
+            static inline std::string getValue( const std::string & data );
         private:
             Lexer &lexer;
             std::vector<MetaData> meta;

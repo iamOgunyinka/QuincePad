@@ -1,7 +1,12 @@
 #include <iostream>
-#include "lexer.h"
+#include "parser.h"
+
 #include <chrono>
 #include <algorithm>
+using namespace QuincePad;
+using namespace Lex;
+using namespace Parse;
+
 /**
 using s_iterator = std::string::const_iterator;
 using pairs_iterator = std::pair<s_iterator, s_iterator>;
@@ -38,15 +43,23 @@ pairs_iterator findPairFrom(std::string::const_iterator f, std::string::const_it
 
 int main(int argc, char **argv)
 {
-    std::vector<std::string> foo;
-    QuincePad::File _file( "/home/matrix/QuincePAD/doc.txt" );
+    std::string filename { "/home/matrix/QuincePAD/doc.txt" };
+    if( argc > 1 ) {
+        filename = argv[1];
+    }
     std::chrono::time_point<std::chrono::system_clock> start, end;
     start = std::chrono::system_clock::now();
     
-    QuincePad::Lex::Lexer::extractCodeTags(_file, foo );
+    Lexer lex ( filename );
+    Parser parse( lex );
+
+    //~ for(int i = 0; i != lex.size(); ++i) { std::cout << lex[i] << std::endl; }
     end = std::chrono::system_clock::now();
     std::chrono::duration<double> seconds = end - start;
-    std::cout << "findPairFrom took " << seconds.count() << "s\n";
-    for(const auto &i: foo) { std::cout << i << std::endl; }
+    std::cout << "The lexer spent " << seconds.count() << "seconds " << std::endl;
     return 0;
 }
+
+/*
+g++ -std=c++11 -o main lexer.h lexer.cpp parser.h parser.cpp ../Support/file.h ../Support/metadata.h ../Support/metadata.cpp main.cpp
+*/

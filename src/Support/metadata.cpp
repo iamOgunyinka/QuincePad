@@ -40,10 +40,10 @@ void Tokens::INIT_KEYWORDS_TABLE()
     Tokens::tokens.insert( {{ "perl", "3" }, Language::PERL } );
     Tokens::tokens.insert( {{ "python", "py", "4"}, Language::PYTHON } );
     Tokens::tokens.insert( {{ "fortran", "fort", "for", "5" }, Language::FORTRAN } );
-    
+    Tokens::tokens.insert( {{ "whitespace", "white space", "white", "6" }, Language::WHITESPACE } );
 }
 
-Language Tokens::find(const std::string &str) {
+Language Tokens::getLanguage(const std::string &str) {
     for(const auto &i: Tokens::tokens){
         if(i.first.find(str) != i.first.i_list.end()){
             return i.second;

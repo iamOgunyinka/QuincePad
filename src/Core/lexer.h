@@ -2,7 +2,6 @@
 #define LEXER_H
 
 #include "../Support/file.h"
-#include <vector>
 
 namespace QuincePad
 {

@@ -22,7 +22,6 @@ void Parser::parseToken(Lexer &m_lexer, std::vector<MetaData> &m_meta)
             getMetaData( codeAttributes, m_meta[i] );
         }
     }
-    //~ for( const auto &i: m_meta ) { std::cout << i << std::endl; }
 }
 
 void Parser::getMetaData(const std::string &data, MetaData &metadatas)
@@ -71,6 +70,5 @@ inline std::string Parser::getNormalCode(const std::string &text, const std::str
 {
     auto foundCloseTag = text.find("[/code]");
     std::string foo = text.substr(str.size(), 7
-    std::cout << foo << std::endl;
     return foo;
 }

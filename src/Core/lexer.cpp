@@ -1,5 +1,4 @@
 #include "lexer.h"
-#include <iostream>
 
 using namespace QuincePad;
 using namespace Lex;
@@ -27,7 +26,7 @@ void Lexer::extractCodeTags(File &file, std::vector<std::string> &container)
             iter = findPairFrom(allFileContent, openTag, closeTag, mergeWithCodeTags);
         }
     } else {
-        std::cout << "Specified file not found" << std::endl;
+        printf("Specified file not found");
     }
 }
 Lexer::size_type Lexer::size() { return code_tag.size(); }

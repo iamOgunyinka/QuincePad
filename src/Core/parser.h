@@ -3,7 +3,6 @@
 
 #include "lexer.h"
 #include "../Support/metadata.h"
-#include <iostream>
 
 namespace QuincePad
 {

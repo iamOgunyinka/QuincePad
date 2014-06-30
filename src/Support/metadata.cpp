@@ -44,8 +44,11 @@ void Tokens::INIT_KEYWORDS_TABLE()
 }
 
 Language Tokens::getLanguage(const std::string &str) {
+    if ( tokens.empty() ){
+        INIT_KEYWORDS_TABLE();
+    }
     for(const auto &i: Tokens::tokens){
-        if(i.first.find(str) != i.first.i_list.end()){
+        if(i.first.find(str) != i.first.i_list.cend()){
             return i.second;
         }
     }

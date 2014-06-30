@@ -3,8 +3,6 @@
 using namespace QuincePad::Parse;
 using namespace QuincePad::Lex;
 
-//[code, lang="php", run=1, input= "12 15"]
-
 Parser::Parser(Lexer &m_lexer): lexer(m_lexer), meta(m_lexer.size())
 {
     parseToken( lexer, meta );
@@ -19,10 +17,12 @@ void Parser::parseToken(Lexer &m_lexer, std::vector<MetaData> &m_meta)
     std::string codeAttributes { };
     for( std::vector<std::string>::size_type i = 0; i != m_lexer.size(); ++i ){
         getCodeTagAttributes( m_lexer[i], codeAttributes );
+        m_meta[i].n_code = getNormalCode(m_lexer[i], codeAttributes);
         if( !codeAttributes.empty() ){
             getMetaData( codeAttributes, m_meta[i] );
         }
     }
+    //~ for( const auto &i: m_meta ) { std::cout << i << std::endl; }
 }
 
 void Parser::getMetaData(const std::string &data, MetaData &metadatas)
@@ -34,11 +34,23 @@ void Parser::getMetaData(const std::string &data, MetaData &metadatas)
         metadatas = MetaData { };
         return;
     } else {
-        auto container = QuincePad::splitStringBy(data, comma);
+        auto container = QuincePad::splitStringBy( data, comma );
         for( const auto &i: container ){
-            printf("%s\n", i.c_str());// << std::endl;
+            if( i.find( "input" ) != std::string::npos ) {
+                temp.input = getValue( i );
+            } else if ( i.find( "lang" ) != std::string::npos ) {
+                temp.lang = Tokens::getLanguage( getValue( i ) );
+            } else if ( i.find( "run" ) != std::string::npos ) {
+                temp.run_code = ( getValue( i ) == std::string { "true" } ? true : false );
+            } else if ( i.find( "private" ) != std::string::npos ) {
+                temp.privacy = ( getValue( i ) == std::string { "true" } ? true :
+                                getValue( i ) == std::string { "1" } ? true : false );
+            } else {
+                continue;
+            }
         }
     }
+    metadatas = std::move( temp );
 }
 
 inline void Parser::getCodeTagAttributes( const std::string &text, std::string &data )
@@ -47,12 +59,18 @@ inline void Parser::getCodeTagAttributes( const std::string &text, std::string &
     if( find_iter != text.cend() && find_iter != text.crend().base() ) {
         data = std::string( text.cbegin(), find_iter + 1 );
     }
-    printf( "In getCodeAttribute: with text = %s and data = %s\n", text.c_str(), data.c_str() );
 }
 
 inline std::string Parser::getValue( const std::string &data )
 {
-    auto found = findPairFrom( data, "\"", "\"" );
+    auto found = findQuotesFrom( data, "\"", "\"", true );
     return std::string { found.first, found.second };
 }
-    
+
+inline std::string Parser::getNormalCode(const std::string &text, const std::string &str)
+{
+    auto foundCloseTag = text.find("[/code]");
+    std::string foo = text.substr(str.size(), 7
+    std::cout << foo << std::endl;
+    return foo;
+}

@@ -3,7 +3,7 @@
 
 #include <unordered_map>
 #include <set>
-#include <string>
+#include <algorithm>
 
 namespace QuincePad
 {
@@ -45,8 +45,8 @@ namespace QuincePad
         MetaData(): MetaData("", Language::NONE, false, false) { }
         MetaData(const std::string &p_input, Language p_lang, bool p_run, code_privacy p_privacy):
             input(p_input), lang(p_lang), run_code(p_run), privacy(p_privacy) { }
-            
-        MetaData(const MetaData &) = default; //No way can a code have the same metadata
+        MetaData& operator=(const MetaData &) = default;
+        MetaData(const MetaData &) = default;
         MetaData(MetaData && data): input(std::move(data.input)), lang(data.lang), run_code(data.run_code),
             privacy(data.privacy) { }
         MetaData& operator=(MetaData &&data) {
@@ -56,8 +56,7 @@ namespace QuincePad
             privacy = data.privacy; data.privacy = false;
             return *this;
         }
-
-        std::string input;
+        std::string input { }, n_code { };
         Language lang;
         bool run_code;
         code_privacy privacy;
@@ -70,9 +69,8 @@ namespace QuincePad
         Tokens(const KeyWords &key, Language lang);
         void insert(const std::initializer_list< std::string > & obj, Language lang);
         static std::unordered_map<KeyWords, Language, KeyHash, KeyEqual> tokens;
-        static Language getLanguage(const std::string &str);
         static void INIT_KEYWORDS_TABLE();
-
+        static Language getLanguage(const std::string &str);
     };
 }// namespace QuincePad
 

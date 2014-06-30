@@ -3,6 +3,7 @@
 
 #include "lexer.h"
 #include "../Support/metadata.h"
+#include <iostream>
 
 namespace QuincePad
 {
@@ -19,6 +20,7 @@ namespace QuincePad
             static inline void getMetaData( const std::string &data, MetaData &metadatas );
             static inline void getCodeTagAttributes( const std::string &text, std::string &data );
             static inline std::string getValue( const std::string & data );
+            static inline std::string getNormalCode(const std::string &text, const std::string &str);
         private:
             Lexer &lexer;
             std::vector<MetaData> meta;

@@ -15,8 +15,7 @@ int main(int argc, char **argv)
     std::chrono::time_point<std::chrono::system_clock> start, end;
     start = std::chrono::system_clock::now();
     
-    Lexer lex ( filename );
-    Parser parse( lex );
+    Parser parse( filename );
 
     end = std::chrono::system_clock::now();
     std::chrono::duration<double> seconds = end - start;

@@ -2,62 +2,62 @@
 #define FILE_H
 
 #include <fstream>
-#include <string>
-#include <vector>
 #include <algorithm>
 
 namespace QuincePad
 {
-    using s_iterator = std::string::const_iterator;
-    using pairs_iterator = std::pair<s_iterator, s_iterator>;
+    namespace StringFunctions
+    {
+        using s_iterator = std::string::const_iterator;
+        using pairs_iterator = std::pair<s_iterator, s_iterator>;
     
-    static pairs_iterator findPairFrom(const std::string &text, const std::string &a, const std::string &b,
+        static pairs_iterator findPairFrom(const std::string &text, const std::string &a, const std::string &b,
                                         bool lastOfB = false)
-    {
-        std::string::size_type found_first = text.find(a), found_second { };
-        if(found_first != std::string::npos )
         {
-            found_second = text.substr(found_first).find(b);
-            if(found_second != std::string::npos){
-                std::string::const_iterator first = text.cbegin() + found_first,
-                                            second = first + found_second + (lastOfB ? b.size() : 0);                
-                return { first, second };
+            std::string::size_type found_first = text.find(a), found_second { };
+            if(found_first != std::string::npos )
+            {
+                found_second = text.substr(found_first).find(b);
+                if(found_second != std::string::npos){
+                    std::string::const_iterator first = text.cbegin() + found_first,
+                                                second = first + found_second + (lastOfB ? b.size() : 0);                
+                    return { first, second };
+                }
             }
+            return { text.end(), text.end() };
         }
-        return { text.end(), text.end() };
-    }
-    static pairs_iterator findQuotesFrom(const std::string &text, const std::string &a, const std::string &b,
-                                        bool lastOfB = false)
-    {
-        std::string::size_type found_first = text.find(a), found_second { };
-        if(found_first != std::string::npos )
+        static pairs_iterator findQuotesFrom(const std::string &text, const std::string &a, const std::string &b,
+                                            bool lastOfB = false)
         {
-            found_second = text.substr(found_first + 1).find(b);
-            if(found_second != std::string::npos){
-                std::string::const_iterator first = text.cbegin() + found_first,
-                                            second = first + found_second + (lastOfB ? b.size(): 0);            
-                return { first + 1, second };
+            std::string::size_type found_first = text.find(a), found_second { };
+            if(found_first != std::string::npos )
+            {
+                found_second = text.substr(found_first + 1).find(b);
+                if(found_second != std::string::npos){
+                    std::string::const_iterator first = text.cbegin() + found_first,
+                                                second = first + found_second + (lastOfB ? b.size(): 0);            
+                    return { first + 1, second };
+                }
             }
+            return { text.end(), text.end() };
         }
-        return { text.end(), text.end() };
+        static std::vector<std::string> splitStringBy( const std::string &a, const char &b )
+        {
+            std::vector<std::string> temp { };
+            std::string tempStr = a;
+            auto found = std::find( tempStr.cbegin(), tempStr.cend(), b );
+            while( found != tempStr.cend() ){
+                temp.push_back( std::string { tempStr.cbegin(), found } );
+                tempStr = std::string { found + 1, tempStr.cend() };
+                found = std::find( tempStr.cbegin(), tempStr.cend(), b );
+            }
+            if ( tempStr.size() > 4 ) {
+                found = std::find( tempStr.cbegin(), tempStr.cend(), ']' );
+                temp.push_back( std::string { tempStr.cbegin(), found } );
+            }
+            return temp;
+        }
     }
-    static std::vector<std::string> splitStringBy( const std::string &a, const char &b )
-    {
-        std::vector<std::string> temp { };
-        std::string tempStr = a;
-        auto found = std::find( tempStr.cbegin(), tempStr.cend(), b );
-        while( found != tempStr.cend() ){
-            temp.push_back( std::string { tempStr.cbegin(), found } );
-            tempStr = std::string { found + 1, tempStr.cend() };
-            found = std::find( tempStr.cbegin(), tempStr.cend(), b );
-        }
-        if ( tempStr.size() > 4 ) {
-            found = std::find( tempStr.cbegin(), tempStr.cend(), ']' );
-            temp.push_back( std::string { tempStr.cbegin(), found } );
-        }
-        return temp;
-    }
-
     struct File
     {
         File() = delete;
@@ -90,7 +90,5 @@ namespace QuincePad
     private:
         std::ifstream &source;
     };
-
-    
 }
 #endif

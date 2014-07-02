@@ -3,6 +3,7 @@
 
 #include "lexer.h"
 #include "../Support/metadata.h"
+#include <memory>
 
 namespace QuincePad
 {
@@ -11,6 +12,7 @@ namespace QuincePad
     {
         struct Parser {
             Parser() = delete;
+            Parser(const std::string &filename);
             Parser(Lexer &m_lexer);
             ~Parser();
             
@@ -21,6 +23,7 @@ namespace QuincePad
             static inline std::string getValue( const std::string & data );
             static inline std::string getNormalCode(const std::string &text, const std::string &str);
         private:
+            std::unique_ptr<Lexer> lexer_ptr;
             Lexer &lexer;
             std::vector<MetaData> meta;
         };

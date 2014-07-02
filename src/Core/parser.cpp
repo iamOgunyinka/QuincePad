@@ -2,16 +2,21 @@
 
 using namespace QuincePad::Parse;
 using namespace QuincePad::Lex;
+using namespace QuincePad::StringFunctions;
 
-Parser::Parser(Lexer &m_lexer): lexer(m_lexer), meta(m_lexer.size())
+Parser::Parser(Lexer &m_lexer): lexer_ptr(nullptr), lexer( m_lexer ), meta(m_lexer.size())
 {
     parseToken( lexer, meta );
 }
 
-Parser::~Parser()
+Parser::Parser(const std::string &filename): lexer_ptr(new Lexer{ filename }), lexer( *lexer_ptr ),
+                                             meta( lexer.size() )
 {
-    //
-}
+    parseToken( lexer, meta );
+}                                     
+
+Parser::~Parser() = default;
+
 void Parser::parseToken(Lexer &m_lexer, std::vector<MetaData> &m_meta)
 {
     std::string codeAttributes { };
@@ -26,30 +31,25 @@ void Parser::parseToken(Lexer &m_lexer, std::vector<MetaData> &m_meta)
 
 void Parser::getMetaData(const std::string &data, MetaData &metadatas)
 {
-    MetaData temp { };
     const char comma = ',';
     auto find_str = std::find(data.cbegin(), data.cend(), comma );
     if ( find_str == data.cend() ) {
-        metadatas = MetaData { };
         return;
     } else {
-        auto container = QuincePad::splitStringBy( data, comma );
+        auto container = splitStringBy( data, comma );
         for( const auto &i: container ){
             if( i.find( "input" ) != std::string::npos ) {
-                temp.input = getValue( i );
+                metadatas.input = getValue( i );
             } else if ( i.find( "lang" ) != std::string::npos ) {
-                temp.lang = Tokens::getLanguage( getValue( i ) );
+                metadatas.lang = Tokens::getLanguage( getValue( i ) );
             } else if ( i.find( "run" ) != std::string::npos ) {
-                temp.run_code = ( getValue( i ) == std::string { "true" } ? true : false );
+                metadatas.run_code = ( getValue( i ) == std::string { "true" } ? true : false );
             } else if ( i.find( "private" ) != std::string::npos ) {
-                temp.privacy = ( getValue( i ) == std::string { "true" } ? true :
+                metadatas.privacy = ( getValue( i ) == std::string { "true" } ? true :
                                 getValue( i ) == std::string { "1" } ? true : false );
-            } else {
-                continue;
             }
         }
     }
-    metadatas = std::move( temp );
 }
 
 inline void Parser::getCodeTagAttributes( const std::string &text, std::string &data )
@@ -68,7 +68,6 @@ inline std::string Parser::getValue( const std::string &data )
 
 inline std::string Parser::getNormalCode(const std::string &text, const std::string &str)
 {
-    auto foundCloseTag = text.find("[/code]");
-    std::string foo = text.substr(str.size(), 7
-    return foo;
+    std::string closeTag { "[/code]" };
+    return { text.cbegin() + str.size(), text.cbegin() + text.find(closeTag) };
 }

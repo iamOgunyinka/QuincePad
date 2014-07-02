@@ -24,7 +24,7 @@ namespace QuincePad
             iterator end();
             const_iterator cbegin();
             const_iterator cend();
-            size_type size();
+            size_type size() const ;
             static void extractCodeTags(File &, std::vector<std::string> & container);
 
         private:

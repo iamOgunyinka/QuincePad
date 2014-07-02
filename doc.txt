@@ -1,9 +1,11 @@
-And all you do is [code]insert[/code][code]foobar[/code]
+And all you do is [code]insert[/code]
+[code]foobar[/code]
 I am trying to do
 [code, lang="cpp", run = "true", input= "12 15", private = "true"]
 int foo = 10;
 faraday = 100 / 20;
 [/code]
+
 [code]
 I am a little tea pot
 sitting on the table

@@ -1,6 +1,7 @@
 #include "lexer.h"
 
 using namespace QuincePad;
+using namespace StringFunctions;
 using namespace Lex;
 
 Lexer::Lexer(const std::string &filename): code_tag {}, file ( filename )
@@ -29,13 +30,8 @@ void Lexer::extractCodeTags(File &file, std::vector<std::string> &container)
         printf("Specified file not found");
     }
 }
-Lexer::size_type Lexer::size() { return code_tag.size(); }
+Lexer::size_type Lexer::size() const { return code_tag.size(); }
 Lexer::iterator Lexer::begin() { return code_tag.begin(); }
 Lexer::iterator Lexer::end() { return code_tag.end(); }
 Lexer::const_iterator Lexer::cbegin() { return code_tag.cbegin(); }
 Lexer::const_iterator Lexer::cend() { return code_tag.cend(); }
-
-/**
-cd /home/matrix/QuincePAD/src/Lexer
-g++ -std=c++11 -o main ../Support/file.h ../Support/file.cpp lexer.h lexer.cpp 
-**/

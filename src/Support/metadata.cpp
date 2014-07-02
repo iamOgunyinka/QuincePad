@@ -11,8 +11,7 @@ struct Tokens::KeyWords
     }
     std::set<std::string> i_list;
 };
-//would have specialized std::hash for KeyWords struct but I didn't get the method
-//and I don't want that to delay it. So have this
+
 struct Tokens::KeyHash {
     size_t operator()(const Tokens::KeyWords &a) const {
         return std::hash< std::string > ()(*a.i_list.begin()) << 2;

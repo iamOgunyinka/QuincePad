@@ -1,7 +1,7 @@
 And all you do is [code]insert[/code]
 [code]foobar[/code]
 I am trying to do
-[code, lang="cpp", run = "true", input= "12 15", private = "true"]
+[code, lang="OCAmL", run = "true", input= "12 15", private = "true"]
 int foo = 10;
 faraday = 100 / 20;
 [/code]

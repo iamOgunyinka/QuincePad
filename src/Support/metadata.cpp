@@ -40,14 +40,25 @@ void Tokens::INIT_KEYWORDS_TABLE()
     Tokens::tokens.insert( {{ "python", "py", "4"}, Language::PYTHON } );
     Tokens::tokens.insert( {{ "fortran", "fort", "for", "5" }, Language::FORTRAN } );
     Tokens::tokens.insert( {{ "whitespace", "white space", "white", "6" }, Language::WHITESPACE } );
+    Tokens::tokens.insert( {{ "ada", "7" }, Language::ADA } );
+    Tokens::tokens.insert( {{ "ocaml", "caml", "8" }, Language::OCAML } );
+    Tokens::tokens.insert( {{ "intercal", "i_cal", "9" }, Language::INTERCAL } );
+    Tokens::tokens.insert( {{ "java", "10" }, Language::JAVA } );
+    Tokens::tokens.insert( {{ "c", "C", "11" }, Language::C } );
+    Tokens::tokens.insert( {{ "brainfuck", "brain fuck", "bf", "12" }, Language::BRAINFUCK } );
+    Tokens::tokens.insert( {{ "asm", "13" }, Language::ASM } );
 }
 
 Language Tokens::getLanguage(const std::string &str) {
     if ( tokens.empty() ){
         INIT_KEYWORDS_TABLE();
     }
+    //change str to lower case
+    std::string temp { };
+    std::transform( str.cbegin(), str.cend(), std::back_inserter(temp), [](const char c)-> char { return ::tolower(c); });
+
     for(const auto &i: Tokens::tokens){
-        if(i.first.find(str) != i.first.i_list.cend()){
+        if(i.first.find(temp) != i.first.i_list.cend()){
             return i.second;
         }
     }

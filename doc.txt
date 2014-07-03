@@ -1,11 +1,2686 @@
-And all you do is [code]insert[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
 [code]foobar[/code]
 I am trying to do
-[code, lang="OCAmL", run = "true", input= "12 15", private = "true"]
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
 int foo = 10;
 faraday = 100 / 20;
 [/code]
-
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
+[code]
+I am a little tea pot
+sitting on the table
+here is my handle
+[/code]
+And all you do is [code, lang = "c", run="1"]insert[/code]
+[code]foobar[/code]
+I am trying to do
+[code, lang="brain fuck", run = "true", input= "12 15", private = "true"]
+int foo = 10;
+faraday = 100 / 20;
+[/code]
 [code]
 I am a little tea pot
 sitting on the table

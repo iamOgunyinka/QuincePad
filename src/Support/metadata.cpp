@@ -41,7 +41,7 @@ void Tokens::INIT_KEYWORDS_TABLE()
     Tokens::tokens.insert( {{ "fortran", "fort", "for", "5" }, Language::FORTRAN } );
     Tokens::tokens.insert( {{ "whitespace", "white space", "white", "6" }, Language::WHITESPACE } );
     Tokens::tokens.insert( {{ "ada", "7" }, Language::ADA } );
-    Tokens::tokens.insert( {{ "ocaml", "caml", "8" }, Language::OCAML } );
+    Tokens::tokens.insert( {{ "ocaml", "caml", "8", "o_caml" }, Language::OCAML } );
     Tokens::tokens.insert( {{ "intercal", "i_cal", "9" }, Language::INTERCAL } );
     Tokens::tokens.insert( {{ "java", "10" }, Language::JAVA } );
     Tokens::tokens.insert( {{ "c", "C", "11" }, Language::C } );

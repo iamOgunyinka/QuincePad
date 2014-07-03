@@ -43,13 +43,17 @@ void Parser::getMetaData(const std::string &data, MetaData &metadatas)
             } else if ( i.find( "lang" ) != std::string::npos ) {
                 metadatas.lang = Tokens::getLanguage( getValue( i ) );
             } else if ( i.find( "run" ) != std::string::npos ) {
-                metadatas.run_code = ( getValue( i ) == std::string { "true" } ? true : false );
+                metadatas.run_code = ( getValue( i ) == std::string { "true" } ? true :
+                                getValue( i ) == std::string { "1" } ? true : false );
             } else if ( i.find( "private" ) != std::string::npos ) {
                 metadatas.privacy = ( getValue( i ) == std::string { "true" } ? true :
                                 getValue( i ) == std::string { "1" } ? true : false );
             }
         }
     }
+    printf("MetaData: input => %s -- n_code => %s -- lang = %d -- run_code => %d -- privacy => %d\n",
+            metadatas.input.c_str(), metadatas.n_code.c_str(), (int)metadatas.lang, (int)metadatas.run_code,
+            metadatas.privacy );
 }
 
 inline void Parser::getCodeTagAttributes( const std::string &text, std::string &data )
